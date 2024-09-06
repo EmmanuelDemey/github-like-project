@@ -14,6 +14,7 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Introduction", slug: "guides/introduction" },
+            { label: "Initialisation API", slug: "guides/api-initialisation" },
           ],
         },
       ],
