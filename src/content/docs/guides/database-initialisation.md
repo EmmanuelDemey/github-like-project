@@ -77,3 +77,7 @@ A présent, en navigant sur http://localhost:3000, vous devriez  voir votre util
 Nous verrons dans une prochaine partie comment mieux structure notre code et comment implémenter une API CRUD complète. 
 
 Vous pouvez également supprimer  le fichier `app.service.ts` qui n'est plus utile pour le moment. 
+
+:::tip[Pour aller plus loin]
+[Documentation Prisma](https://www.prisma.io/docs/)
+:::

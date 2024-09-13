@@ -21,3 +21,6 @@ Nous venons de créer notre "première application". Si vous ouvrez un nouvel on
 
 Nous expliquerons en détail le fonctionnement de Nuxtjs tout au long de ce projet. 
 
+:::tip[Pour aller plus loin]
+[Documentation Nuxtjs](https://nuxt.com/)
+:::

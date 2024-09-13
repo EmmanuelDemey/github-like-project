@@ -23,3 +23,6 @@ Nous venons de créer notre "première API". Si vous ouvrez un nouvel onglet dan
 
 Nous expliquerons en détail le fonctionnement de Nest.js tout au long de ce projet. 
 
+:::tip[Pour aller plus loin]
+[Documentation Nestjs](https://docs.nestjs.com/)
+:::
