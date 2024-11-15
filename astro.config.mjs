@@ -13,10 +13,11 @@ export default defineConfig({
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Introduction", slug: "guides/introduction" },
-            { label: "Initialisation API", slug: "guides/api-initialisation" },
-            { label: " Initialisation Nuxt.js", slug: "guides/front-initialisation" },
-            { label: " Initialisation Base de données", slug: "guides/database-initialisation" },
+            { label: "Introduction", slug: "guides/01_introduction" },
+            { label: "Initialisation GIT", slug: "guides/02_git" },
+            { label: "Initialisation API", slug: "guides/03_api-initialisation" },
+            { label: " Initialisation Nuxt.js", slug: "guides/04_front-initialisation" },
+            { label: " Initialisation Base de données", slug: "guides/05_database-initialisation" },
           ],
         },
       ],
